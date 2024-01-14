@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="icampusDataSet1" targetNamespace="http://tempuri.org/icampusDataSet1.xsd" xmlns:mstns="http://tempuri.org/icampusDataSet1.xsd" xmlns="http://tempuri.org/icampusDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Database1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1ConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsApplication1.My.MySettings.GlobalReference.Default.Database1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cornerTableAdapter" GeneratorDataComponentClassName="cornerTableAdapter" Name="corner" UserDataComponentName="cornerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Database1ConnectionString (MySettings)" DbObjectName="dbo.corner" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT photodesc, photolink, wordname, worddesc, wordlink, bookname, bookdesc, booklink FROM dbo.corner</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="photodesc" DataSetColumn="photodesc" />
+              <Mapping SourceColumn="photolink" DataSetColumn="photolink" />
+              <Mapping SourceColumn="wordname" DataSetColumn="wordname" />
+              <Mapping SourceColumn="worddesc" DataSetColumn="worddesc" />
+              <Mapping SourceColumn="wordlink" DataSetColumn="wordlink" />
+              <Mapping SourceColumn="bookname" DataSetColumn="bookname" />
+              <Mapping SourceColumn="bookdesc" DataSetColumn="bookdesc" />
+              <Mapping SourceColumn="booklink" DataSetColumn="booklink" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="icampusDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="icampusDataSet1" msprop:Generator_UserDSName="icampusDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="corner" msprop:Generator_TableClassName="cornerDataTable" msprop:Generator_TableVarName="tablecorner" msprop:Generator_TablePropName="corner" msprop:Generator_RowDeletingName="cornerRowDeleting" msprop:Generator_RowChangingName="cornerRowChanging" msprop:Generator_RowEvHandlerName="cornerRowChangeEventHandler" msprop:Generator_RowDeletedName="cornerRowDeleted" msprop:Generator_UserTableName="corner" msprop:Generator_RowChangedName="cornerRowChanged" msprop:Generator_RowEvArgName="cornerRowChangeEvent" msprop:Generator_RowClassName="cornerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="photodesc" msprop:Generator_ColumnVarNameInTable="columnphotodesc" msprop:Generator_ColumnPropNameInRow="photodesc" msprop:Generator_ColumnPropNameInTable="photodescColumn" msprop:Generator_UserColumnName="photodesc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="photolink" msprop:Generator_ColumnVarNameInTable="columnphotolink" msprop:Generator_ColumnPropNameInRow="photolink" msprop:Generator_ColumnPropNameInTable="photolinkColumn" msprop:Generator_UserColumnName="photolink" type="xs:base64Binary" />
+              <xs:element name="wordname" msprop:Generator_ColumnVarNameInTable="columnwordname" msprop:Generator_ColumnPropNameInRow="wordname" msprop:Generator_ColumnPropNameInTable="wordnameColumn" msprop:Generator_UserColumnName="wordname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="worddesc" msprop:Generator_ColumnVarNameInTable="columnworddesc" msprop:Generator_ColumnPropNameInRow="worddesc" msprop:Generator_ColumnPropNameInTable="worddescColumn" msprop:Generator_UserColumnName="worddesc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="wordlink" msprop:Generator_ColumnVarNameInTable="columnwordlink" msprop:Generator_ColumnPropNameInRow="wordlink" msprop:Generator_ColumnPropNameInTable="wordlinkColumn" msprop:Generator_UserColumnName="wordlink">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bookname" msprop:Generator_ColumnVarNameInTable="columnbookname" msprop:Generator_ColumnPropNameInRow="bookname" msprop:Generator_ColumnPropNameInTable="booknameColumn" msprop:Generator_UserColumnName="bookname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bookdesc" msprop:Generator_ColumnVarNameInTable="columnbookdesc" msprop:Generator_ColumnPropNameInRow="bookdesc" msprop:Generator_ColumnPropNameInTable="bookdescColumn" msprop:Generator_UserColumnName="bookdesc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="booklink" msprop:Generator_ColumnVarNameInTable="columnbooklink" msprop:Generator_ColumnPropNameInRow="booklink" msprop:Generator_ColumnPropNameInTable="booklinkColumn" msprop:Generator_UserColumnName="booklink">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\i campus trail.vbproj.GenerateResource.Cache
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form9.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\i campus trail.vbprojResolveAssemblyReference.cache
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\icampus.mdf
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\icampus_log.ldf
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form13.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form14.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\ICAMPUS.exe.config
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\ICAMPUS.exe
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\ICAMPUS.pdb
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\bin\Debug\ICAMPUS.xml
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\ICAMPUS.exe
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\ICAMPUS.xml
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\ICAMPUS.pdb
+C:\Users\kelvi\OneDrive\Documents\Visual Studio 2012\Projects\i campus trail\i campus trail\obj\Debug\WindowsApplication1.Form16.resources
